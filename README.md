@@ -15,7 +15,7 @@ Edit features:
 
 Images of the application:
 
-<img src="https://i.imgur.com/PDpTsel.png" width="100" height="100">
+<img src="https://i.imgur.com/PDpTsel.png" width="700" height="700">
 
-<img src="https://i.imgur.com/GRHyKoD.png" width="100" height="100">
+<img src="https://i.imgur.com/GRHyKoD.png" width="700" height="700">
 
