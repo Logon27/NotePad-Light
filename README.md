@@ -12,3 +12,9 @@ Edit features:
 * Cut
 * Undo
 * Redo
+
+Images of the application:
+
+![File Features](https://i.imgur.com/PDpTsel.png)
+
+![Edit Features](https://i.imgur.com/GRHyKoD.png)
