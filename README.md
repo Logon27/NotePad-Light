@@ -15,6 +15,6 @@ Edit features:
 
 Images of the application:
 
-![File Features](https://i.imgur.com/PDpTsel.png)
+![File Features](https://i.imgur.com/PDpTsel.png =300x300)
 
-![Edit Features](https://i.imgur.com/GRHyKoD.png)
+![Edit Features](https://i.imgur.com/GRHyKoD.png =300x300)
